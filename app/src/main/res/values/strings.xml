@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EDC</string>
+    <string name="title_activity_maps">Donors Locations</string>
+    <string name="eligibility_">Eligibility: </string>
+    <string name="female_">If you are female, you must:\nBe healthy and feeling well\nBe at least 18 years.</string>
+    <string name="male_">If you are male, you must:\nBe healthy and feeling well\nBe at least 18 years.</string>
+    <string name="info_">Giving blood saves lives. The blood you give is a lifeline in an emergency and for people who need long-term treatments. Many people would not be alive today if donors had not generously given their blood. Most people between ages of 17-65 are able to give blood. That is why we need more young people to start giving blood .</string>
+</resources>
